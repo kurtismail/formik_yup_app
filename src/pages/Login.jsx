@@ -135,6 +135,7 @@ const Login = () => {
                     loading={loading}
                     loadingPosition="center"
                     variant="contained"
+                    sx={{background:"#1256e9"}}
                   >
                     Submit
                   </LoadingButton>
